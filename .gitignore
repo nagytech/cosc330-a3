@@ -1,0 +1,7 @@
+*.o
+gaussian
+gaussianmpi
+gaussianmpi.dSYM
+*.bmp
+!pencils.bmp
+!pencils_large.bmp

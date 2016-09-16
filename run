@@ -1,0 +1,2 @@
+#!/bin/bash
+mpirun -np 4 ./gaussianmpi pencils.bmp pencils_gaus_4-2.bmp 2
